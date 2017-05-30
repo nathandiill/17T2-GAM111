@@ -20,7 +20,7 @@ public class AimandTest : MonoBehaviour {
         {
             var hitPos = camRay.GetPoint(outDist);
 
-            Debug.DrawLine(transform.position, hitPos, Color.yellow);
+            Debug.DrawLine(transform.position, hitPos, Color.cyan);
 
             var dif = hitPos - transform.position;
 
