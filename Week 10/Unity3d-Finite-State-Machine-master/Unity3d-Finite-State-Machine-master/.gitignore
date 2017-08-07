@@ -1,0 +1,17 @@
+
+/example/Library
+/example/ProjectSettings
+/example/Temp/CaseSensitiveTest
+/example/Temp/WindowsLockFile
+/example/Temp
+/example_project/Library
+/example_project/Assets/UnityVS
+/example_project/Temp
+/example_project/obj
+/example_project/*.suo
+/example_project/*.DotSettings
+/example_project/Assets/UnityVS.meta
+/example_project/*.unityproj
+/example_project/.vs
+/example_project/_Resharper.*
+
